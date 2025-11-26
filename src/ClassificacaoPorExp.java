@@ -1,4 +1,4 @@
-public class App {
+public class ClassificacaoPorExp {
     public static void main(String[] args) throws Exception {
         String name = "Debora";
         int exp = 10000;
@@ -25,3 +25,4 @@ public class App {
     
         } 
 }
+
