@@ -5,6 +5,7 @@ Repositório criado para praticar e consolidar os conceitos fundamentais de prog
 Este repositório contém dois projetos:
 1. Classificador de Nível de Herói
 2. Calculadora de Partidas Rankeadas
+3. Escrevendo as Classes de Um Jogo
 
 Os desafios propostos pela Digital Innovation One (DIO), com foco no fortalecimento da base lógica e na construção de um portfólio consistente no GitHub.
 
@@ -18,4 +19,5 @@ Aqui você encontrará:
 2. Organização clara da lógica implementada.
 3. Estrutura preparada para evolução futura.
 4. Possibilidade de expansão com novos desafios.
+
 
